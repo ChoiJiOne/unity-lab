@@ -11,6 +11,7 @@
 | Kenney Input Prompts (입력 아이콘) | [`ai-docs/arts-input-prompts.md`](ai-docs/arts-input-prompts.md) | `Assets/Arts/kenney_input-prompts_1.5/` |
 | Kenney Desert Shooter Pack (탑다운 슈터) | [`ai-docs/arts-desert-shooter-pack.md`](ai-docs/arts-desert-shooter-pack.md) | `Assets/Arts/kenney_desert-shooter-pack_1.0/` |
 | Kenney Boardgame Pack (보드/카드 게임) | [`ai-docs/arts-boardgame-pack.md`](ai-docs/arts-boardgame-pack.md) | `Assets/Arts/kenney_boardgame-pack/` |
+| Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 
 ## 새 에셋 추가 시
 
