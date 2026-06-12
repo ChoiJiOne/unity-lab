@@ -62,13 +62,13 @@ crashlytics-build.properties
 # 재현 절차는 ai-docs/scripting-puerts-typescript.md 참고
 # --------------------------------------------
 # PuerTS 임베디드 패키지 (GitHub Releases 타르볼에서 추출)
-Packages/com.tencent.puerts.*/
+**/Packages/com.tencent.puerts.*/
 # 다운로드한 릴리스 타르볼 보관소
 [Ll]ocalPackages/
 # PuerTS TypeScript 프로젝트 의존성
 node_modules/
 # PuerTS 생성 산출물 (Gen 바인딩 / index.d.ts 는 메뉴로 재생성)
-[Aa]ssets/Gen/
+**/[Aa]ssets/Gen/
 
 # OS 생성 파일
 .DS_Store
