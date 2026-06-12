@@ -14,6 +14,7 @@
 | Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
 | Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
+| Kenney Pixel UI Pack (픽셀 UI) | [`ai-docs/arts-pixel-ui-pack.md`](ai-docs/arts-pixel-ui-pack.md) | `Assets/Arts/kenney_pixel-ui-pack/` |
 
 ## 새 에셋 추가 시
 
