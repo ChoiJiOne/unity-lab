@@ -1,0 +1,52 @@
+# ============================================
+# Unity 프로젝트 .gitattributes (기본형, LFS 미사용)
+# ============================================
+
+# 텍스트 파일 자동 감지 후 줄바꿈 정규화 (저장소 내부는 LF)
+* text=auto
+
+# --------------------------------------------
+# Unity YAML 파일 — 텍스트 강제 + 스마트 머지
+# (UnityYAMLMerge 설정 시 씬/프리팹 충돌 해결 용이)
+# --------------------------------------------
+*.unity            merge=unityyamlmerge eol=lf
+*.prefab           merge=unityyamlmerge eol=lf
+*.asset            merge=unityyamlmerge eol=lf
+*.meta             merge=unityyamlmerge eol=lf
+*.mat              merge=unityyamlmerge eol=lf
+*.anim             merge=unityyamlmerge eol=lf
+*.controller       merge=unityyamlmerge eol=lf
+*.physicMaterial   merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+
+# --------------------------------------------
+# 소스 코드 / 텍스트 에셋
+# --------------------------------------------
+*.cs        text diff=csharp eol=lf
+*.shader    text eol=lf
+*.cginc     text eol=lf
+*.hlsl      text eol=lf
+*.compute   text eol=lf
+*.json      text eol=lf
+*.md        text eol=lf
+
+# --------------------------------------------
+# 바이너리 에셋 (줄바꿈 정규화 방지)
+# --------------------------------------------
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.psd   binary
+*.tga   binary
+*.tif   binary
+*.fbx   binary
+*.obj   binary
+*.blend binary
+*.wav   binary
+*.mp3   binary
+*.ogg   binary
+*.ttf   binary
+*.otf   binary
+*.dll   binary
+*.unitypackage binary
