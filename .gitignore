@@ -69,6 +69,8 @@ crashlytics-build.properties
 node_modules/
 # PuerTS 생성 산출물 (Gen 바인딩 / index.d.ts 는 메뉴로 재생성)
 **/[Aa]ssets/Gen/
+# PuerTS 리서치 스캐폴드 (gitignore된 PuerTS 패키지에 의존 → 정본은 ai-docs)
+**/[Aa]ssets/PuerTSResearch/
 
 # OS 생성 파일
 .DS_Store

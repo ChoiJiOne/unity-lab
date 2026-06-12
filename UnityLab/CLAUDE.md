@@ -11,6 +11,7 @@
 | Kenney Input Prompts (입력 아이콘) | [`ai-docs/arts-input-prompts.md`](ai-docs/arts-input-prompts.md) | `Assets/Arts/kenney_input-prompts_1.5/` |
 | Kenney Desert Shooter Pack (탑다운 슈터) | [`ai-docs/arts-desert-shooter-pack.md`](ai-docs/arts-desert-shooter-pack.md) | `Assets/Arts/kenney_desert-shooter-pack_1.0/` |
 | Kenney Boardgame Pack (보드/카드 게임) | [`ai-docs/arts-boardgame-pack.md`](ai-docs/arts-boardgame-pack.md) | `Assets/Arts/kenney_boardgame-pack/` |
+| Kenney Board Game Icons (보드게임 아이콘) | [`ai-docs/arts-board-game-icons.md`](ai-docs/arts-board-game-icons.md) | `Assets/Arts/kenney_board-game-icons/` |
 | Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
 | Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
