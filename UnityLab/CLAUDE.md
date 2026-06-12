@@ -15,6 +15,7 @@
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
 | Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
 | Kenney Pixel UI Pack (픽셀 UI) | [`ai-docs/arts-pixel-ui-pack.md`](ai-docs/arts-pixel-ui-pack.md) | `Assets/Arts/kenney_pixel-ui-pack/` |
+| Kenney Puzzle Pack 1 (매치-3 젬) | [`ai-docs/arts-puzzle-pack-1.md`](ai-docs/arts-puzzle-pack-1.md) | `Assets/Arts/kenney_puzzle-pack-1/` |
 
 ## 새 에셋 추가 시
 
