@@ -49,4 +49,9 @@
 *.ttf   binary
 *.otf   binary
 *.dll   binary
+*.so    binary
+*.a     binary
+*.dylib binary
+*.bundle binary
+*.tgz   binary
 *.unitypackage binary
