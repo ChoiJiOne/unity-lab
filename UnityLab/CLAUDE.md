@@ -17,6 +17,7 @@
 | Kenney Pixel UI Pack (픽셀 UI) | [`ai-docs/arts-pixel-ui-pack.md`](ai-docs/arts-pixel-ui-pack.md) | `Assets/Arts/kenney_pixel-ui-pack/` |
 | Kenney Puzzle Pack 1 (매치-3 젬) | [`ai-docs/arts-puzzle-pack-1.md`](ai-docs/arts-puzzle-pack-1.md) | `Assets/Arts/kenney_puzzle-pack-1/` |
 | Kenney Puzzle Pack II (벽돌깨기/파이프) | [`ai-docs/arts-puzzle-pack-2.md`](ai-docs/arts-puzzle-pack-2.md) | `Assets/Arts/kenney_puzzle-pack-2/` |
+| Kenney Shooting Gallery (사격장) | [`ai-docs/arts-shooting-gallery.md`](ai-docs/arts-shooting-gallery.md) | `Assets/Arts/kenney_shooting-gallery/` |
 
 ## 새 에셋 추가 시
 
