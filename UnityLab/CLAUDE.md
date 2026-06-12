@@ -22,6 +22,7 @@
 | Kenney Space Shooter Remastered (우주 슈터 본편) | [`ai-docs/arts-space-shooter-remastered.md`](ai-docs/arts-space-shooter-remastered.md) | `Assets/Arts/kenney_space-shooter-remastered/` |
 | Kenney Tappy Plane (원탭 사이드스크롤) | [`ai-docs/arts-tappy-plane.md`](ai-docs/arts-tappy-plane.md) | `Assets/Arts/kenney_tappy-plane/` |
 | Kenney Top-Down Shooter (탑다운 슈터/좀비) | [`ai-docs/arts-top-down-shooter.md`](ai-docs/arts-top-down-shooter.md) | `Assets/Arts/kenney_top-down-shooter/` |
+| Kenney Top-Down Tanks Remastered (탱크 배틀) | [`ai-docs/arts-top-down-tanks-remastered.md`](ai-docs/arts-top-down-tanks-remastered.md) | `Assets/Arts/kenney_top-down-tanks-remastered/` |
 
 ## 새 에셋 추가 시
 
