@@ -13,6 +13,7 @@
 | Kenney Boardgame Pack (보드/카드 게임) | [`ai-docs/arts-boardgame-pack.md`](ai-docs/arts-boardgame-pack.md) | `Assets/Arts/kenney_boardgame-pack/` |
 | Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
+| Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
 
 ## 새 에셋 추가 시
 
