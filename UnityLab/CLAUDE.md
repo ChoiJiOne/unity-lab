@@ -19,6 +19,7 @@
 | Kenney Puzzle Pack II (벽돌깨기/파이프) | [`ai-docs/arts-puzzle-pack-2.md`](ai-docs/arts-puzzle-pack-2.md) | `Assets/Arts/kenney_puzzle-pack-2/` |
 | Kenney Shooting Gallery (사격장) | [`ai-docs/arts-shooting-gallery.md`](ai-docs/arts-shooting-gallery.md) | `Assets/Arts/kenney_shooting-gallery/` |
 | Kenney Space Shooter Extension (우주 슈터 확장) | [`ai-docs/arts-space-shooter-extension.md`](ai-docs/arts-space-shooter-extension.md) | `Assets/Arts/kenney_space-shooter-extension/` |
+| Kenney Space Shooter Remastered (우주 슈터 본편) | [`ai-docs/arts-space-shooter-remastered.md`](ai-docs/arts-space-shooter-remastered.md) | `Assets/Arts/kenney_space-shooter-remastered/` |
 
 ## 새 에셋 추가 시
 
