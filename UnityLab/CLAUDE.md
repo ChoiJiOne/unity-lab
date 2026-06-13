@@ -27,6 +27,7 @@
 | Kenney Splat Pack (물감 튀김 텍스처) | [`ai-docs/arts-splat-pack.md`](ai-docs/arts-splat-pack.md) | `Assets/Arts/kenney_splat-pack/` |
 | Kenney Tanks (탑다운 탱크) | [`ai-docs/arts-tanks.md`](ai-docs/arts-tanks.md) | `Assets/Arts/kenney_tanks/` |
 | Kenney Toon Characters (만화풍 캐릭터) | [`ai-docs/arts-toon-characters.md`](ai-docs/arts-toon-characters.md) | `Assets/Arts/kenney_toon-characters/` |
+| Kenney UI Pack (범용 UI 키트) | [`ai-docs/arts-ui-pack.md`](ai-docs/arts-ui-pack.md) | `Assets/Arts/kenney_ui-pack/` |
 | Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
 | Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
