@@ -76,10 +76,10 @@ rm -rf Packages/com.tencent.puerts.v8/Plugins/OpenHarmony \
 
 ## 3. 리서치 스캐폴드 (정본 코드)
 
-라이브 파일은 `Assets/PuerTSResearch/` 에 있으며 **저장소에 함께 추적된다**(PuerTS 패키지도 추적되므로
+라이브 파일은 `Assets/Packages/PuerTSResearch/` 에 있으며 **저장소에 함께 추적된다**(PuerTS 패키지도 추적되므로
 clone 시 그대로 컴파일·실행됨). 아래는 참고용 본문이다.
 
-### `Assets/PuerTSResearch/PuerTSBootstrap.cs`
+### `Assets/Packages/PuerTSResearch/PuerTSBootstrap.cs`
 
 ```csharp
 using System;
@@ -103,7 +103,7 @@ public class PuerTSBootstrap : MonoBehaviour
 }
 ```
 
-### `Assets/PuerTSResearch/Resources/main.mjs` (즉시 실행용 컴파일본)
+### `Assets/Packages/PuerTSResearch/Resources/main.mjs` (즉시 실행용 컴파일본)
 
 ```js
 import { UnityEngine } from 'csharp';
@@ -113,7 +113,7 @@ export function greet(name) {
 }
 ```
 
-### `Assets/PuerTSResearch/TsProject/src/main.ts` (TypeScript 원본)
+### `Assets/Packages/PuerTSResearch/TsProject/src/main.ts` (TypeScript 원본)
 
 ```ts
 import { UnityEngine } from 'csharp'
@@ -160,7 +160,7 @@ export function greet(name: string): void {
 - [ ] IL2CPP Reflection vs Static Wrapper 모드 빌드 비용·성능 차이 측정.
 
 > 다음은 **주제 36 (xLua)** 세팅. main에 한 번에 하나씩 진행하는 정책이므로,
-> PuerTS 실험·기록을 마치면 `Packages/com.tencent.puerts.*` 와 `Assets/PuerTSResearch/`,
+> PuerTS 실험·기록을 마치면 `Packages/com.tencent.puerts.*` 와 `Assets/Packages/PuerTSResearch/`,
 > `LocalPackages/` 를 제거한 뒤 xLua를 올린다.
 
 ---
