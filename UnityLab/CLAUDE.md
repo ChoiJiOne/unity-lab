@@ -18,7 +18,21 @@
 ## 게임 기획 문서
 
 게임 기획 문서를 작성할 때는
-[`../Docs/templates/gdd-template.md`](../Docs/templates/gdd-template.md) 양식을 참조한다.
+[`../Docs/workflow/gdd-authoring-workflow.md`](../Docs/workflow/gdd-authoring-workflow.md) 의 작성 절차를 따르고,
+[`../Docs/templates/gdd-template.md`](../Docs/templates/gdd-template.md) 양식을 사용한다.
+
+## 개발 설계 문서 (TDD)
+
+개발 설계서를 작성할 때는
+[`../Docs/workflow/tdd-authoring-workflow.md`](../Docs/workflow/tdd-authoring-workflow.md) 의 작성 절차를 따르고,
+[`../Docs/templates/tdd-template.md`](../Docs/templates/tdd-template.md) 양식을 사용한다.
+현 프로토타입은 **순수 C#/Unity** 로 구현하며(PuerTS는 향후 리서치 대상), end-to-end 구현 가능성과
+**Unity MCP 연결 확인**을 선행 점검한다.
+
+## 프로토타입 폴더 구조
+
+프로토타입을 스캐폴딩·구현할 때는 [`ai-docs/prototype-structure.md`](ai-docs/prototype-structure.md) 규약을 따른다.
+각 프로토타입은 `Assets/Prototype/<PascalName>/` 자기완결 폴더(asmdef 격리 + 씬 + 엔트리 포인트 + DEVLOG)로 둔다.
 
 ## 유니티 리서칭 주제
 

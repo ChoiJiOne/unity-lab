@@ -9,7 +9,7 @@ tags: [unity, prototype, <장르>]
 
 > 1인·프로토타입 규모용 경량 기획서 양식. 풀 GDD 대신 핵심만 담아
 > "기획서 바로 뽑아 구현 착수"를 목표로 한다. 프로토타입 주제 목록은
-> [`../asset-prototype-game-ideas.md`](../asset-prototype-game-ideas.md) 참조.
+> [`../../asset-prototype-game-ideas.md`](../../asset-prototype-game-ideas.md) 참조.
 
 ## 1. 한 줄 컨셉 (Elevator Pitch)
 
@@ -42,7 +42,7 @@ Ready → Playing → GameOver (전이 조건 명시)
 | 배경/장애물 | ... |
 | UI/폰트/사운드 | ... |
 
-※ [`../../UnityLab/ai-docs/`](../../UnityLab/ai-docs/) 의 `arts-*.md` 에서 실제 파일명으로 채움
+※ [`../../../UnityLab/ai-docs/`](../../../UnityLab/ai-docs/) 의 `arts-*.md` 에서 실제 파일명으로 채움
 
 ## 7. 기술 메모
 
