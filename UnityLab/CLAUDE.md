@@ -15,6 +15,7 @@
 | Kenney Emotes Pack (감정 이모트) | [`ai-docs/arts-emotes-pack.md`](ai-docs/arts-emotes-pack.md) | `Assets/Arts/kenney_emotes-pack/` |
 | Kenney Foliage Sprites (식물/초목) | [`ai-docs/arts-foliage-sprites.md`](ai-docs/arts-foliage-sprites.md) | `Assets/Arts/kenney_foliage-sprites/` |
 | Kenney Generic Items (아이템 아이콘) | [`ai-docs/arts-generic-items.md`](ai-docs/arts-generic-items.md) | `Assets/Arts/kenney_generic-items/` |
+| Kenney Letter Tiles (글자 타일/단어게임) | [`ai-docs/arts-letter-tiles.md`](ai-docs/arts-letter-tiles.md) | `Assets/Arts/kenney_letter-tiles/` |
 | Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
 | Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
