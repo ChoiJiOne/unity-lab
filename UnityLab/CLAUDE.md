@@ -19,6 +19,7 @@
 | Kenney Micro Roguelike (미니멀 로그라이크) | [`ai-docs/arts-micro-roguelike.md`](ai-docs/arts-micro-roguelike.md) | `Assets/Arts/kenney_micro-roguelike/` |
 | Kenney Minimap Pack (미니맵) | [`ai-docs/arts-minimap-pack.md`](ai-docs/arts-minimap-pack.md) | `Assets/Arts/kenney_minimap-pack/` |
 | Kenney Particle Pack (파티클 텍스처) | [`ai-docs/arts-particle-pack.md`](ai-docs/arts-particle-pack.md) | `Assets/Arts/kenney_particle-pack/` |
+| Kenney Playing Cards Pack (트럼프 카드) | [`ai-docs/arts-playing-cards-pack.md`](ai-docs/arts-playing-cards-pack.md) | `Assets/Arts/kenney_playing-cards-pack/` |
 | Kenney Jumper Pack (버티컬 점퍼) | [`ai-docs/arts-jumper-pack.md`](ai-docs/arts-jumper-pack.md) | `Assets/Arts/kenney_jumper-pack/` |
 | Kenney Map Pack (탑다운 맵 타일) | [`ai-docs/arts-map-pack.md`](ai-docs/arts-map-pack.md) | `Assets/Arts/kenney_map-pack/` |
 | Kenney Physics Assets (물리 퍼즐) | [`ai-docs/arts-physics-assets.md`](ai-docs/arts-physics-assets.md) | `Assets/Arts/kenney_physics-assets/` |
