@@ -1,0 +1,9 @@
+{
+    "scenes": [
+        "Assets/Scenes/DefaultScene.unity",
+        "Assets/Prototype/TappyPlane/Scenes/TappyPlane.unity"
+    ],
+    "exclude": [
+        "Assets/Packages"
+    ]
+}
