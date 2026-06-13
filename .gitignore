@@ -58,19 +58,14 @@ crashlytics-build.properties
 #       커밋해야 하므로 무시하지 않음
 
 # --------------------------------------------
-# 리서치용 외부 스크립팅 런타임 (네이티브 바이너리 大용량, LFS 미사용이라 커밋 제외)
-# 재현 절차는 ai-docs/scripting-puerts-typescript.md 참고
+# 리서치용 외부 스크립팅 런타임 (PuerTS)
+# 자체 포함(self-contained) 방침: 임베디드 패키지·릴리스 타르볼·스캐폴드는 추적한다.
+# 단, 재생성 가능한 산출물만 무시한다. 세팅 문서: ai-docs/scripting-puerts-typescript.md
 # --------------------------------------------
-# PuerTS 임베디드 패키지 (GitHub Releases 타르볼에서 추출)
-**/Packages/com.tencent.puerts.*/
-# 다운로드한 릴리스 타르볼 보관소
-[Ll]ocalPackages/
-# PuerTS TypeScript 프로젝트 의존성
+# TypeScript 프로젝트 의존성 (package.json 으로 복원 가능)
 node_modules/
-# PuerTS 생성 산출물 (Gen 바인딩 / index.d.ts 는 메뉴로 재생성)
+# PuerTS 자동 생성 코드 (Tools/PuerTS 메뉴로 재생성)
 **/[Aa]ssets/Gen/
-# PuerTS 리서치 스캐폴드 (gitignore된 PuerTS 패키지에 의존 → 정본은 ai-docs)
-**/[Aa]ssets/PuerTSResearch/
 
 # OS 생성 파일
 .DS_Store

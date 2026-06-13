@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "ES2015",
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": true,
+    "outDir": "../Resources"
+  },
+  // src 의 TS + 동봉/생성된 타입 선언을 함께 컴파일 대상에 포함.
+  // - index.d.ts: core 패키지 동봉. "puerts" 모듈 선언 제공.
+  // - typings/*.d.ts: 'Tools/PuerTS' 메뉴로 생성한 "csharp" 모듈 선언(UnityEngine 등)을 여기에 둔다.
+  //   생성 전에는 'csharp' 모듈을 tsc 가 못 찾아 타입 에러가 나지만, 런타임(.mjs)은 정상 동작한다.
+  "include": [
+    "src/**/*.ts",
+    "typings/**/*.d.ts",
+    "../../../../Packages/com.tencent.puerts.core/Typing/puerts/index.d.ts"
+  ]
+}
